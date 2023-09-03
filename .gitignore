@@ -2,3 +2,4 @@
 *.pdf
 *.pa
 *.patch
+.DS_Store
