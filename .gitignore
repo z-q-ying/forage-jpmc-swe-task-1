@@ -3,3 +3,4 @@
 *.pa
 *.patch
 .DS_Store
+.idea/
