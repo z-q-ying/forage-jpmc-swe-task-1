@@ -2,5 +2,7 @@
 *.pdf
 *.pa
 *.patch
-.DS_Store
 .idea/
+.DS_Store
+.idea/forage-jpmc-swe-task-1.iml
+.idea/misc.xml
